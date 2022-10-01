@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @topDwagg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-topDwagg/topDwagg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ashan Medigodella
+- 👀 I’m interested Everything i find facinating
+- 🌱 I’m currently learning Dart/FLutter
+- 💞️ I’m looking to collaborate on some new things that could help broad my knowledge
+- 📫 How to reach me LinedIn: https://lk.linkedin.com/in/ashanmedigodella
